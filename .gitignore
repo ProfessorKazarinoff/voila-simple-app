@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code
+.vscode
+.vscode/
+
+# PyCharm
+.idea
+.idea/
+
+# Any MacOS .icloud files
+
+*.icloud
+.icloud
